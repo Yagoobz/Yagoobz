@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sean! 
+<h1>Hi, I'm Sean Yaghoubi! 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
