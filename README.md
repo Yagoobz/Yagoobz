@@ -6,7 +6,7 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📄 Certifications</h2>
-- [Google Cybersecurity Certificate]
+- [Google Cybersecurity Certificate](https://www.credly.com/badges/01d71e21-671e-45c5-8a4a-b3267e4dab57/linked_in_profile)
 
 <h2> 🤳 Connect with me:</h2>
 
