@@ -9,6 +9,8 @@
 - <b>Wireshark</b>
   - [Network Security Analysis](...)
   - [Packet Capture](...)
+  - [SOC Automation Home Lab](...)
+  - 
     
 <h2>📄 Certifications</h2>
 
