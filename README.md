@@ -1,5 +1,5 @@
 <h1>👋🏻 Hi, I'm Sean Yaghoubi! 
-<h2>👨‍💻 Cybersecurity Projects</h2>
+<h2>👨🏻‍💻 Cybersecurity Projects</h2>
 
 - <b>Home Labs</b>
   - [Active Directory](https://github.com/Yagoobz/ActiveDirectoryLab/tree/main)
