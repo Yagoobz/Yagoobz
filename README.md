@@ -2,7 +2,7 @@
   
 <h2>👨🏻‍💻 Cybersecurity Projects</h2>
 
-- <b>Home Labs</b>
+- <b>Home Lab</b>
   - [Active Directory](https://github.com/Yagoobz/ActiveDirectoryLab/tree/main)
 - <b>Microsoft Windows Defender</b>
   - [Windows Defender Firewall](...)
