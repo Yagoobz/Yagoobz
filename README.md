@@ -3,8 +3,9 @@
 
 - <b>Home Labs</b>
   - [Active Directory](https://github.com/Yagoobz/ActiveDirectoryLab/tree/main)
-  - [Microsoft Windows Defender](https://www.coursera.org/learn/microsoft-windows-defender-and-firewall-for-beginners/ungradedLti/C6RV2/lab-2-microsoft-windows-defender-firewall) 
-
+- <b>Microsoft Windows Defender</b>
+  - [Windows Defender Firewall](...)
+    
 <h2>📄 Certifications</h2>
 
 - [Google Cybersecurity Certificate](https://www.credly.com/badges/01d71e21-671e-45c5-8a4a-b3267e4dab57/linked_in_profile)
