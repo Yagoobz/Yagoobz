@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
 - <b>Active Directory Home Lab (VirtualBox/Powershell</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/Yagoobz/ActiveDirectoryLab/tree/main))
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
@@ -25,6 +25,6 @@
 
 <h2> 🤳 Connect with me</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="SeanYaghoubi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/sean-yaghoubi-87b5a5227/
