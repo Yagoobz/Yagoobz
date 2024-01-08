@@ -1,8 +1,8 @@
 <h1>👋🏻 Hi, I'm Sean Yaghoubi! 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
-- <b>Active Directory Home Lab (VirtualBox/Powershell</b>
-  - [Praciting DS & Algos in Python](https://github.com/Yagoobz/ActiveDirectoryLab/tree/main)
+- <b>Active Directory Home Lab</b>
+  - [Powershell](https://github.com/Yagoobz/ActiveDirectoryLab/tree/main)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
