@@ -4,9 +4,8 @@
 
   - [Home Lab](https://github.com/Yagoobz/HomeLab)
   - [Windows Defender Firewall](...)
-- <b>Wireshark</b>
-  - [Network Security Analysis](...)
-  - [Packet Capture](...)    
+  - [Wireshark Network Security Analysis](...)
+  - [Wireshark Packet Capture](...)    
     
 <h2>📄 Certifications</h2>
 
