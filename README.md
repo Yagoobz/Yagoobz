@@ -2,8 +2,7 @@
   
 <h2>👨🏻‍💻 Cybersecurity Projects</h2>
 
-  - [Home Lab]([https://github.com/Yagoobz/ActiveDirectoryLab/tree/main](https://github.com/Yagoobz/HomeLab)
-  - [SOC Automation Home Lab](...)
+  - [Home Lab](https://github.com/Yagoobz/HomeLab)
 - <b>Microsoft Windows Defender</b>
   - [Windows Defender Firewall](...)
 - <b>Wireshark</b>
