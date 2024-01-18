@@ -6,7 +6,7 @@
   - [Raspberry Pi Projects](...)
   - [Windows Defender Firewall](...)
   - [Wireshark Network Security Analysis](...)
-  - [Wireshark Packet Capture](...)    
+  - [Wireshark Packet Capture](...)     
     
 <h2>📄 Certifications</h2>
 
@@ -20,3 +20,20 @@
 [<img align="left" alt="SeanYaghoubi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/sean-yaghoubi-87b5a5227/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
