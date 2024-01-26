@@ -2,7 +2,7 @@
   
 <h2>👨🏻‍💻 Cybersecurity Projects</h2>
 
-  - [Home Labs](...)
+  - [Home Labs](https://github.com/Yagoobz/HomeLab)
   - [Raspberry Pi Projects](...)
   - [Windows Defender Firewall](...)
   - [Wireshark Network Security Analysis](...)
