@@ -1,13 +1,13 @@
 <h1>👋🏻 Hi, I'm Sean Yaghoubi! 
   
-<h2>👨🏻‍💻 Cybersecurity Projects</h2>
+<h2>👨🏻‍💻Projects</h2>
 
   - [Home Labs](...)
+  - [PC Builds](...)  
   - [Raspberry Pi Projects](...)
   - [Windows Defender Firewall](...)
   - [Wireshark Network Security Analysis](...)
-  - [Wireshark Packet Capture](...)
-  - [PC Builds](...)   
+  - [Wireshark Packet Capture](...) 
     
 <h2>📄 Certifications</h2>
 
