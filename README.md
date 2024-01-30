@@ -2,9 +2,9 @@
   
 <h2>👨🏻‍💻Projects</h2>
 
-  - [Home Labs](...)
   - [PC Builds](...)  
   - [Raspberry Pi Projects](...)
+  - [Home Lab](...)
   - [Windows Defender Firewall](...)
   - [Wireshark Network Security Analysis](...)
   - [Wireshark Packet Capture](...) 
@@ -12,8 +12,8 @@
 <h2>📄 Certifications</h2>
 
 - [CompTIA Security+](...)
+- [Splunk Certified Cybersecurity Defense Analyst](...)
 - [TryHackMe Certifications](...)
-- [Hack The Box Certifications](...)
 - [Google Cybersecurity Certificate](https://www.credly.com/badges/01d71e21-671e-45c5-8a4a-b3267e4dab57/linked_in_profile)
 
 <h2>🤳🏻 Connect with me</h2>
