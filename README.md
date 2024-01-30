@@ -2,7 +2,7 @@
   
 <h2>👨🏻‍💻Projects</h2>
 
-  - [Custom PC Builds](...)  
+  - [Custom PC Builds](https://github.com/Yagoobz/CustomPCBuilds)  
   - [Raspberry Pi Projects](...)
   - [Home Lab](...)
   - [Windows Defender Firewall](...)
