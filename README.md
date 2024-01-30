@@ -5,6 +5,7 @@
   - [Custom PC Builds](https://github.com/Yagoobz/CustomPCBuilds)  
   - [Raspberry Pi Projects](...)
   - [Home Lab](...)
+  - [Python Projects](...)
   - [Windows Defender Firewall](https://github.com/Yagoobz/WindowsDefenderFirewall)
   - [Wireshark Network Security Analysis](...)
   - [Wireshark Packet Capture](...) 
