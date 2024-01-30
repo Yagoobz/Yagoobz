@@ -6,7 +6,8 @@
   - [Raspberry Pi Projects](...)
   - [Windows Defender Firewall](...)
   - [Wireshark Network Security Analysis](...)
-  - [Wireshark Packet Capture](...)     
+  - [Wireshark Packet Capture](...)
+  - [PC Builds](...)   
     
 <h2>📄 Certifications</h2>
 
