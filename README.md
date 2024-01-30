@@ -2,7 +2,7 @@
   
 <h2>👨🏻‍💻Projects</h2>
 
-  - [PC Builds](...)  
+  - [Custom PC Builds](...)  
   - [Raspberry Pi Projects](...)
   - [Home Lab](...)
   - [Windows Defender Firewall](...)
