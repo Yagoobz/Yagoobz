@@ -7,7 +7,7 @@
   - [Home Lab](...)
   - [Python Projects](...)
   - [Windows Defender Firewall](https://github.com/Yagoobz/WindowsDefenderFirewall)
-  - [Wireshark Network Security Analysis](...)
+  - [Wireshark Network Security Analysis](https://github.com/Yagoobz/WiresharkNetworkSecurityAnalysis)
   - [Wireshark Packet Capture](...) 
     
 <h2>📄 Certifications</h2>
