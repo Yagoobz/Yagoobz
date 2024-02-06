@@ -1,4 +1,3 @@
-
 <h1>👋🏻 Hi, I'm Sean Yaghoubi!</h1>
   
 <h2>👨🏻‍💻Projects</h2>
