@@ -43,7 +43,7 @@
 
 
 
-<h1>👋🏻 Hi, I'm Sean Yaghoubi! 
+<h1>👋🏻 Hi, I'm Sean Yaghoubi!</h1>
   
 <h2>👨‍💻 Software Development Projects:</h2>
 
