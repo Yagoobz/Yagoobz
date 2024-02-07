@@ -24,6 +24,7 @@
 
 - [CompTIA Security+](...)
 - [Splunk Certified Cybersecurity Defense Analyst](...)
+- [GRC Mastery](...)
 - [TryHackMe Certifications](...)
 - [Google Cybersecurity Certificate](https://www.credly.com/badges/01d71e21-671e-45c5-8a4a-b3267e4dab57/linked_in_profile)
 
