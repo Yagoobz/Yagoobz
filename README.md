@@ -11,7 +11,9 @@
   - [SOC Automation Lab](...)
   - [Kali Linux Lab](...)
 - <b>Python Projects</b>
-  - [Password Checker](...)
+  - [Password Generator](...)
+  - [File Integrity Checker](...)
+  - [Network Probe Sniffing](...)
 - <b>Microsoft Windows Security</b>
   - [Windows Defender Firewall](https://github.com/Yagoobz/WindowsDefenderFirewall)
 - <b>Wireshark Network Security Analysis</b>
