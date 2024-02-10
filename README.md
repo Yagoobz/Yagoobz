@@ -9,6 +9,7 @@
   - [Honeypot](...)
 - <b>Home Labs</b>
   - [SOC Automation Lab](...)
+    - [Part 1](...)
   - [Kali Linux Lab](...)
 - <b>Python Projects</b>
   - [Password Generator](...)
