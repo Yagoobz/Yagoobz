@@ -10,6 +10,8 @@
 - <b>Home Labs</b>
   - [SOC Automation Lab](...)
     - [Part 1](...)
+    - [Part 2](...)
+    - [Part 3](...)
   - [Kali Linux Lab](...)
 - <b>Python Projects</b>
   - [Password Generator](...)
