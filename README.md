@@ -4,7 +4,7 @@
 
 - <b>Computer Builds</b>
   - [Custom PCs](https://github.com/Yagoobz/CustomPCBuilds)
-- <b>Raspberry Pi Projects</b>
+- <b>Raspberry Pi</b>
   - [DNS Sinkhole](...)
   - [Honeypot](...)
 - <b>Home Labs</b>
@@ -13,11 +13,11 @@
     - [Part 2](...)
     - [Part 3](...)
   - [Kali Linux Lab](...)
-- <b>Python Projects</b>
+- <b>Python</b>
   - [Password Generator](...)
   - [File Integrity Checker](...)
   - [Network Probe Sniffing](...)
-- <b>Malware Analysis Projects</b>
+- <b>Malware Analysis</b>
   - [Malware Analysis Lab](...)
   - [Analyzing Zeus Bank Trojan](...)
 - <b>Microsoft Windows Security</b>
