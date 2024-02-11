@@ -17,6 +17,9 @@
   - [Password Generator](...)
   - [File Integrity Checker](...)
   - [Network Probe Sniffing](...)
+- <b>Malware Analysis Projects</b>
+  - [Malware Analysis Lab](...)
+  - [Analyzing Zeus Bank Trojan](...)
 - <b>Microsoft Windows Security</b>
   - [Windows Defender Firewall](https://github.com/Yagoobz/WindowsDefenderFirewall)
 - <b>Wireshark Network Security Analysis</b>
