@@ -25,6 +25,10 @@
 - <b>Wireshark Network Security Analysis</b>
   - [Generate and Capture Traffic](https://github.com/Yagoobz/GenerateAndCaptureTraffic)
   - [Analyzing HTTP Authentication](https://github.com/Yagoobz/AnalyzingHTTPAuthentication)
+  - [HTTP Form-Based Authentication and DNS](...)
+  - [Initiate, Capture and Analyze Telnet Sessions](...)
+  - [Capture and Analyze SSH Sessions](...)
+  - [Generate, Capture, Analyze, Decrypt HTTPS Traffic](...)
 - <b>Wireshark Packet Capture</b>
   - [Hello World](...)
 
