@@ -8,13 +8,13 @@
   - [DNS Sinkhole](...)
   - [Honeypot](...)
 - <b>Home Labs</b>
-  - [SOC Automation Lab](...)
+  - [SOC Automation Lab]
     - [Part 1](...)
     - [Part 2](...)
     - [Part 3](...)
     - [Part 4](...)
     - [Part 5](...)
-  - [Kali Linux Lab](...)
+  - [Kali Linux Lab]
     - [Part 1](...)
     - [Part 2](...)
 - <b>Python</b>
