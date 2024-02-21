@@ -8,7 +8,7 @@
   - [DNS Sinkhole](...)
   - [Honeypot](...)
 - <b>Home Labs</b>
-  - [SOC Automation Lab]
+  - SOC Automation Lab
     - [Part 1](...)
     - [Part 2](...)
     - [Part 3](...)
