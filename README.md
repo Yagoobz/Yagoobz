@@ -31,7 +31,7 @@
   - [Analyzing HTTP Authentication](https://github.com/Yagoobz/AnalyzingHTTPAuthentication)
   - [HTTP Form-Based Authentication and DNS](https://github.com/Yagoobz/HTTPForm-BasedAuthenticationAndDNS)
   - [Initiate, Capture, Analyze Telnet Sessions](https://github.com/Yagoobz/InitiateCaptureAnalyzeTelnetSessions)
-  - [Capture, Analyze SSH Sessions](...)
+  - [Capture, Analyze SSH Sessions](https://github.com/Yagoobz/GenerateCaptureAnalyzeDecrypHTTPSTraffic)
   - [Generate, Capture, Analyze, Decrypt HTTPS Traffic](...)
 - <b>Wireshark Packet Capture</b>
   - [Hello World](...)
