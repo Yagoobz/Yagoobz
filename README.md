@@ -30,7 +30,7 @@
   - [Generate and Capture Traffic](https://github.com/Yagoobz/GenerateAndCaptureTraffic)
   - [Analyzing HTTP Authentication](https://github.com/Yagoobz/AnalyzingHTTPAuthentication)
   - [HTTP Form-Based Authentication and DNS](https://github.com/Yagoobz/HTTPForm-BasedAuthenticationAndDNS)
-  - [Initiate, Capture, Analyze Telnet Sessions](...)
+  - [Initiate, Capture, Analyze Telnet Sessions](https://github.com/Yagoobz/InitiateCaptureAnalyzeTelnetSessions)
   - [Capture, Analyze SSH Sessions](...)
   - [Generate, Capture, Analyze, Decrypt HTTPS Traffic](...)
 - <b>Wireshark Packet Capture</b>
