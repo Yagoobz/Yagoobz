@@ -11,7 +11,7 @@
   - SOC Automation Lab
     - [Part 1](https://github.com/Yagoobz/SOCAutomationLabPart1)
     - [Part 2](https://github.com/Yagoobz/SOCAutomationLabPart2)
-    - [Part 3](...)
+    - [Part 3](https://github.com/Yagoobz/SOCAutomationLabPart3)
     - [Part 4](...)
     - [Part 5](...)
   - Kali Linux Lab
