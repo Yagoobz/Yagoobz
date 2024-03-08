@@ -8,7 +8,7 @@
   - [DNS Sinkhole](...)
   - [Honeypot](...)
 - <b>Home Labs</b>
-  - SOC Automation Lab
+  - SOC Automation Project
     - [Part 1](https://github.com/Yagoobz/SOCAutomationLabPart1)
     - [Part 2](https://github.com/Yagoobz/SOCAutomationLabPart2)
     - [Part 3](https://github.com/Yagoobz/SOCAutomationLabPart3)
