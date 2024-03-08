@@ -14,6 +14,8 @@
     - [Part 3](https://github.com/Yagoobz/SOCAutomationLabPart3)
     - [Part 4](https://github.com/Yagoobz/SOCAutomationLabPart4)
     - [Part 5](...)
+  - Active Directory Project
+    - [Part 1](...)
 - <b>Python</b>
   - [Password Generator](...)
   - [File Integrity Checker](...)
