@@ -13,7 +13,7 @@
     - [Part 2](https://github.com/Yagoobz/SOCAutomationLabPart2)
     - [Part 3](https://github.com/Yagoobz/SOCAutomationLabPart3)
     - [Part 4](https://github.com/Yagoobz/SOCAutomationLabPart4)
-    - [Part 5](...)
+    - [Part 5](https://github.com/Yagoobz/SOCAutomationProjectPart5)
   - Active Directory Project
     - [Part 1](...)
 - <b>Python</b>
