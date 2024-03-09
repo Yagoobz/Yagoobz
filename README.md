@@ -9,7 +9,7 @@
   - [Honeypot](...)
 - <b>Home Labs</b>
   - SOC Automation Project
-    - [Part 1](https://github.com/Yagoobz/SOCAutomationLabPart1)
+    - [Part 1](https://github.com/Yagoobz/SOCAutomationProjectPart1)
     - [Part 2](https://github.com/Yagoobz/SOCAutomationLabPart2)
     - [Part 3](https://github.com/Yagoobz/SOCAutomationLabPart3)
     - [Part 4](https://github.com/Yagoobz/SOCAutomationLabPart4)
