@@ -16,7 +16,7 @@
     - [Part 5](https://github.com/Yagoobz/SOCAutomationProjectPart5)
   - Active Directory Project
     - [Part 1](...)
-   - Basic Home Lab
+  - Active Directory Project
     - [Part 1](...)
 - <b>Python</b>
   - [Password Generator](...)
