@@ -11,8 +11,6 @@
     - [Part 3](https://github.com/Yagoobz/SOCAutomationProjectPart3)
     - [Part 4](https://github.com/Yagoobz/SOCAutomationProjectPart4)
     - [Part 5](https://github.com/Yagoobz/SOCAutomationProjectPart5)
-- <b>Microsoft Windows Security</b>
-  - [Windows Defender Firewall](https://github.com/Yagoobz/WindowsDefenderFirewall)
 - <b>Wireshark Network Security Analysis</b>
   - [Generate and Capture Traffic](https://github.com/Yagoobz/GenerateAndCaptureTraffic)
   - [Analyzing HTTP Authentication](https://github.com/Yagoobz/AnalyzingHTTPAuthentication)
@@ -20,6 +18,8 @@
   - [Initiate, Capture, Analyze Telnet Sessions](https://github.com/Yagoobz/InitiateCaptureAnalyzeTelnetSessions)
   - [Capture, Analyze SSH Sessions](https://github.com/Yagoobz/CaptureAnalyzeSSHSessions)
   - [Generate, Capture, Analyze, Decrypt HTTPS Traffic](https://github.com/Yagoobz/GenerateCaptureAnalyzeDecrypHTTPSTraffic)
+- <b>Microsoft Windows Security</b>
+  - [Windows Defender Firewall](https://github.com/Yagoobz/WindowsDefenderFirewall)
 
  <h2>📄Certifications</h2>
 
