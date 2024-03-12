@@ -4,9 +4,6 @@
 
 - <b>Computer Builds</b>
   - [Custom PCs](https://github.com/Yagoobz/CustomPCBuilds)
-- <b>Raspberry Pi</b>
-  - [DNS Sinkhole](...)
-  - [Honeypot](...)
 - <b>Home Labs</b>
   - SOC Automation Project
     - [Part 1](https://github.com/Yagoobz/SOCAutomationProjectPart1)
@@ -14,14 +11,6 @@
     - [Part 3](https://github.com/Yagoobz/SOCAutomationProjectPart3)
     - [Part 4](https://github.com/Yagoobz/SOCAutomationProjectPart4)
     - [Part 5](https://github.com/Yagoobz/SOCAutomationProjectPart5)
-  - Active Directory Project
-    - [Part 1](...)
-  - Basic Home Lab
-    - [Part 1](...)
-- <b>Python</b>
-  - [Password Generator](...)
-  - [File Integrity Checker](...)
-  - [Network Probe Sniffing](...)
 - <b>Microsoft Windows Security</b>
   - [Windows Defender Firewall](https://github.com/Yagoobz/WindowsDefenderFirewall)
 - <b>Wireshark Network Security Analysis</b>
@@ -31,8 +20,6 @@
   - [Initiate, Capture, Analyze Telnet Sessions](https://github.com/Yagoobz/InitiateCaptureAnalyzeTelnetSessions)
   - [Capture, Analyze SSH Sessions](https://github.com/Yagoobz/CaptureAnalyzeSSHSessions)
   - [Generate, Capture, Analyze, Decrypt HTTPS Traffic](https://github.com/Yagoobz/GenerateCaptureAnalyzeDecrypHTTPSTraffic)
-- <b>Wireshark Packet Capture</b>
-  - [Hello World](...)
 
  <h2>📄Certifications</h2>
 
@@ -40,10 +27,10 @@
 - [GRC Mastery](...)
 - [Google Cybersecurity Professional](https://www.credly.com/badges/01d71e21-671e-45c5-8a4a-b3267e4dab57/linked_in_profile)
 - <b>TryHackMe Certifications</b>
-  - [SOC Level 1](...)
-  - [SOC Level 2](...)
-  - [Cyber Defense](...)
-  - [DevSecOps](...)
+  - [SOC Level 1]
+  - [SOC Level 2]
+  - [Cyber Defense]
+  - [DevSecOps]
 
 <h2>🤳🏻Connect with me</h2>
 
