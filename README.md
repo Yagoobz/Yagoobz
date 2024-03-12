@@ -13,8 +13,10 @@
     - [Part 5](https://github.com/Yagoobz/SOCAutomationProjectPart5)
   - Active Directory Project
     - [Part 1](...)
+    - [Part 2](...)
   - Basic Home Lab
     - [Part 1](...)
+    - [Part 2](...)
 - <b>Python</b>
   - [Password Generator](...)
   - [File Integrity Checker](...)
