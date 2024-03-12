@@ -23,14 +23,13 @@
 
  <h2>📄Certifications</h2>
 
-- [CompTIA Security+](...)
-- [GRC Mastery](...)
+- CompTIA Security+ (Expected 5/24)
+- GRC Mastery (Expected 4/24)
 - [Google Cybersecurity Professional](https://www.credly.com/badges/01d71e21-671e-45c5-8a4a-b3267e4dab57/linked_in_profile)
 - <b>TryHackMe Certifications</b>
-  - [SOC Level 1]
-  - [SOC Level 2]
-  - [Cyber Defense]
-  - [DevSecOps]
+  - SOC Level 1
+  - SOC Level 2
+  - Cyber Defense
 
 <h2>🤳🏻Connect with me</h2>
 
