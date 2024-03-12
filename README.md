@@ -4,6 +4,9 @@
 
 - <b>Computer Builds</b>
   - [Custom PCs](https://github.com/Yagoobz/CustomPCBuilds)
+- <b>Raspberry Pi</b>
+  - [DNS Sinkhole](...)
+  - [Honeypot](...)
 - <b>Home Labs</b>
   - SOC Automation Project
     - [Part 1](https://github.com/Yagoobz/SOCAutomationProjectPart1)
