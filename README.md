@@ -11,6 +11,14 @@
     - [Part 3](https://github.com/Yagoobz/SOCAutomationProjectPart3)
     - [Part 4](https://github.com/Yagoobz/SOCAutomationProjectPart4)
     - [Part 5](https://github.com/Yagoobz/SOCAutomationProjectPart5)
+  - Active Directory Project
+    - [Part 1](...)
+  - Basic Home Lab
+    - [Part 1](...)
+- <b>Python</b>
+  - [Password Generator](...)
+  - [File Integrity Checker](...)
+  - [Network Probe Sniffing](...)
 - <b>Wireshark Network Security Analysis</b>
   - [Generate and Capture Traffic](https://github.com/Yagoobz/GenerateAndCaptureTraffic)
   - [Analyzing HTTP Authentication](https://github.com/Yagoobz/AnalyzingHTTPAuthentication)
