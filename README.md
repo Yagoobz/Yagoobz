@@ -16,7 +16,7 @@
     - [Part 5](https://github.com/Yagoobz/SOCAutomationProjectPart5)
   - Active Directory Project
     - [Part 1](...)
-    - [Part 2](...)
+    - [Part 2](https://github.com/Yagoobz/ActiveDirectoryProjectPart2)
     - [Part 3](https://github.com/Yagoobz/ActiveDirectoryProjectPart3)
     - [Part 4](...)
     - [Part 5](...)
