@@ -19,7 +19,7 @@
     - [Part 2](https://github.com/Yagoobz/ActiveDirectoryProjectPart2)
     - [Part 3](https://github.com/Yagoobz/ActiveDirectoryProjectPart3)
     - [Part 4](https://github.com/Yagoobz/ActiveDirectoryProjectPart4)
-    - [Part 5](...)
+    - [Part 5](https://github.com/Yagoobz/ActiveDirectoryProjectPart5)
 - <b>Python</b>
   - [Password Generator](...)
   - [File Integrity Checker](...)
