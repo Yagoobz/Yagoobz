@@ -20,9 +20,6 @@
     - [Part 3](https://github.com/Yagoobz/ActiveDirectoryProjectPart3)
     - [Part 4](...)
     - [Part 5](...)
-  - Basic Home Lab
-    - [Part 1](...)
-    - [Part 2](...)
 - <b>Python</b>
   - [Password Generator](...)
   - [File Integrity Checker](...)
