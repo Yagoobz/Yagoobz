@@ -2,11 +2,6 @@
   
 <h2>👨🏻‍💻Projects</h2>
 
-- <b>Computer Builds</b>
-  - [Custom PCs](https://github.com/Yagoobz/CustomPCBuilds)
-- <b>Raspberry Pi</b>
-  - [DNS Sinkhole(Coming Soon!)](...)
-  - [Honeypot(Coming Soon!)](...)
 - <b>Home Labs</b>
   - SOC Automation Project
     - [Part 1](https://github.com/Yagoobz/SOCAutomationProjectPart1)
@@ -35,6 +30,13 @@
   - [Coming Soon!](...)
 - <b>Microsoft Windows Security</b>
   - [Windows Defender Firewall](https://github.com/Yagoobz/WindowsDefenderFirewall)
+- <b>Python</b>
+  - [Password Generator(Coming Soon!)](...)
+  - [File Integrity Checker(Coming Soon!)](...)
+  - [Network Probe Sniffing(Coming Soon!)](...)
+- <b>Raspberry Pi</b>
+  - [DNS Sinkhole(Coming Soon!)](...)
+  - [Honeypot(Coming Soon!)](...)
 - <b>Computer Builds</b>
   - [Custom PCs](https://github.com/Yagoobz/CustomPCBuilds)
 - <b>Raspberry Pi</b>
