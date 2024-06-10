@@ -15,10 +15,6 @@
     - [Part 3](https://github.com/Yagoobz/ActiveDirectoryProjectPart3)
     - [Part 4](https://github.com/Yagoobz/ActiveDirectoryProjectPart4)
     - [Part 5](https://github.com/Yagoobz/ActiveDirectoryProjectPart5)
-- <b>Python</b>
-  - [Password Generator(Coming Soon!)](...)
-  - [File Integrity Checker(Coming Soon!)](...)
-  - [Network Probe Sniffing(Coming Soon!)](...)
 - <b>Wireshark Network Security Analysis</b>
   - [Generate and Capture Traffic](https://github.com/Yagoobz/GenerateAndCaptureTraffic)
   - [Analyzing HTTP Authentication](https://github.com/Yagoobz/AnalyzingHTTPAuthentication)
@@ -39,9 +35,6 @@
   - [Honeypot(Coming Soon!)](...)
 - <b>Computer Builds</b>
   - [Custom PCs](https://github.com/Yagoobz/CustomPCBuilds)
-- <b>Raspberry Pi</b>
-  - [DNS Sinkhole(Coming Soon!)](...)
-  - [Honeypot(Coming Soon!)](...)
 
  <h2>📄Certifications</h2>
 
