@@ -35,6 +35,11 @@
   - [Coming Soon!](...)
 - <b>Microsoft Windows Security</b>
   - [Windows Defender Firewall](https://github.com/Yagoobz/WindowsDefenderFirewall)
+- <b>Computer Builds</b>
+  - [Custom PCs](https://github.com/Yagoobz/CustomPCBuilds)
+- <b>Raspberry Pi</b>
+  - [DNS Sinkhole(Coming Soon!)](...)
+  - [Honeypot(Coming Soon!)](...)
 
  <h2>📄Certifications</h2>
 
