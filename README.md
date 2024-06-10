@@ -38,7 +38,7 @@
 
  <h2>📄Certifications</h2>
 
-- [CompTIA Security+](...)
+- [CompTIA Security+(Expected June, 2024)](...)
 - [Splunk Certified Cybersecurity Defense Analyst](...)
 - [AWS Certified Security - Specialty](...)
 - [GRC Mastery](...)
