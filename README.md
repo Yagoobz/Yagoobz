@@ -6,7 +6,7 @@
   - [Custom PCs](https://github.com/Yagoobz/CustomPCBuilds)
 - <b>Raspberry Pi</b>
   - [DNS Sinkhole(Coming Soon!)](...)
-  - [Honeypot](...)
+  - [Honeypot(Coming Soon!)](...)
 - <b>Home Labs</b>
   - SOC Automation Project
     - [Part 1](https://github.com/Yagoobz/SOCAutomationProjectPart1)
@@ -21,9 +21,9 @@
     - [Part 4](https://github.com/Yagoobz/ActiveDirectoryProjectPart4)
     - [Part 5](https://github.com/Yagoobz/ActiveDirectoryProjectPart5)
 - <b>Python</b>
-  - [Password Generator](...)
-  - [File Integrity Checker](...)
-  - [Network Probe Sniffing](...)
+  - [Password Generator(Coming Soon!)](...)
+  - [File Integrity Checker(Coming Soon!)](...)
+  - [Network Probe Sniffing(Coming Soon!)](...)
 - <b>Wireshark Network Security Analysis</b>
   - [Generate and Capture Traffic](https://github.com/Yagoobz/GenerateAndCaptureTraffic)
   - [Analyzing HTTP Authentication](https://github.com/Yagoobz/AnalyzingHTTPAuthentication)
