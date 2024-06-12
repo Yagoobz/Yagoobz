@@ -38,10 +38,8 @@
 
  <h2>📄Certifications</h2>
 
-- [CompTIA Security+(Expected June, 2024)](...)
+- [CompTIA Security+](...)
 - [GRC Mastery](...)
-- [Splunk Certified Cybersecurity Defense Analyst(Expected July, 2024)](...)
-- [AWS Certified Security - Specialty(Expected July, 2024)](...)
 - [Google Cybersecurity Professional](https://www.credly.com/badges/01d71e21-671e-45c5-8a4a-b3267e4dab57/linked_in_profile)
 - <b>TryHackMe Certifications</b>
   - [SOC Level 1](...)
