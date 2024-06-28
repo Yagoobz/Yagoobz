@@ -44,9 +44,7 @@
 - <b>TryHackMe Certifications</b>
   - [SOC Level 1](...)
   - [SOC Level 2](...)
-  - [Cyber Defense](...)
   - [DevSecOps](...)
-  - [Security Engineer](...)
 
 <h2>🤳🏻Connect with me</h2>
 
