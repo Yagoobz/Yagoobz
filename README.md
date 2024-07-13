@@ -39,7 +39,6 @@
  <h2>📄Certifications</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/eedde7c6-91bb-4dd4-85eb-ce0e37510292/linked_in_profile)
-- [GRC Mastery](...)
 - [Google Cybersecurity Professional](https://www.credly.com/badges/01d71e21-671e-45c5-8a4a-b3267e4dab57/linked_in_profile)
 - <b>TryHackMe Certifications</b>
   - [SOC Level 1](...)
