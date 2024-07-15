@@ -24,17 +24,8 @@
   - [Initiate, Capture, Analyze Telnet Sessions](https://github.com/Yagoobz/InitiateCaptureAnalyzeTelnetSessions)
   - [Capture, Analyze SSH Sessions](https://github.com/Yagoobz/CaptureAnalyzeSSHSessions)
   - [Generate, Capture, Analyze, Decrypt HTTPS Traffic](https://github.com/Yagoobz/GenerateCaptureAnalyzeDecrypHTTPSTraffic)
-- <b>Wireshark Packet Capture</b>
-  - [Coming Soon!](...)
 - <b>Microsoft Windows Security</b>
   - [Windows Defender Firewall](https://github.com/Yagoobz/WindowsDefenderFirewall)
-- <b>Python</b>
-  - [Password Generator(Coming Soon!)](...)
-  - [File Integrity Checker(Coming Soon!)](...)
-  - [Network Probe Sniffing(Coming Soon!)](...)
-- <b>Raspberry Pi</b>
-  - [DNS Sinkhole(Coming Soon!)](...)
-  - [Honeypot(Coming Soon!)](...)
 - <b>Computer Builds</b>
   - [Custom PCs](https://github.com/Yagoobz/CustomPCBuilds)
 
