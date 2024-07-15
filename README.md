@@ -9,8 +9,6 @@
     - [Part 3](https://github.com/Yagoobz/SOCAutomationProjectPart3)
     - [Part 4](https://github.com/Yagoobz/SOCAutomationProjectPart4)
     - [Part 5](https://github.com/Yagoobz/SOCAutomationProjectPart5)
-  - SOAR EDR Project
-    - [Part 1](Coming Soon)
   - Active Directory Project
     - [Part 1](https://github.com/Yagoobz/ActiveDirectoryProjectPart1)
     - [Part 2](https://github.com/Yagoobz/ActiveDirectoryProjectPart2)
