@@ -14,8 +14,6 @@
     - [Part 4](https://github.com/Yagoobz/ActiveDirectoryProjectPart4)
     - [Part 5](https://github.com/Yagoobz/ActiveDirectoryProjectPart5)
   - SOAR EDR (Coming Soon)
-<br />
-<br />
 - <b>Wireshark</b>
   - Network Security Analysis
     - [Generate and Capture Traffic](https://github.com/Yagoobz/GenerateAndCaptureTraffic)
