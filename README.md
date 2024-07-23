@@ -23,6 +23,8 @@
     - [Capture, Analyze SSH Sessions](https://github.com/Yagoobz/CaptureAnalyzeSSHSessions)
     - [Generate, Capture, Analyze, Decrypt HTTPS Traffic](https://github.com/Yagoobz/GenerateCaptureAnalyzeDecrypHTTPSTraffic)
   - Packet Capture (Coming Soon)
+- <b>Raspberry Pi</b>
+  - [Honeypot](Coming Soon)
 - <b>Microsoft Windows Security</b>
   - [Windows Defender Firewall](https://github.com/Yagoobz/WindowsDefenderFirewall)
 - <b>Computer Builds</b>
