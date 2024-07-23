@@ -24,7 +24,10 @@
     - [Generate, Capture, Analyze, Decrypt HTTPS Traffic](https://github.com/Yagoobz/GenerateCaptureAnalyzeDecrypHTTPSTraffic)
   - Packet Capture (Coming Soon)
 - <b>Raspberry Pi</b>
-  - [Honeypot](Coming Soon)
+  - Honeypot (Coming Soon)
+  - Pi-Hole (Coming Soon)
+  - Pi-VPN (Coming Soon)
+  - Docker Home Lab (Coming Soon) 
 - <b>Microsoft Windows Security</b>
   - [Windows Defender Firewall](https://github.com/Yagoobz/WindowsDefenderFirewall)
 - <b>Computer Builds</b>
