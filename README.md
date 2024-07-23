@@ -1,19 +1,19 @@
 <h2>Projects</h2>
 
 - <b>Home Labs</b>
-  - SOC Automation Project
+  - SOC Automation
     - [Part 1](https://github.com/Yagoobz/SOCAutomationProjectPart1)
     - [Part 2](https://github.com/Yagoobz/SOCAutomationProjectPart2)
     - [Part 3](https://github.com/Yagoobz/SOCAutomationProjectPart3)
     - [Part 4](https://github.com/Yagoobz/SOCAutomationProjectPart4)
     - [Part 5](https://github.com/Yagoobz/SOCAutomationProjectPart5)
-  - Active Directory Project
+  - Active Directory
     - [Part 1](https://github.com/Yagoobz/ActiveDirectoryProjectPart1)
     - [Part 2](https://github.com/Yagoobz/ActiveDirectoryProjectPart2)
     - [Part 3](https://github.com/Yagoobz/ActiveDirectoryProjectPart3)
     - [Part 4](https://github.com/Yagoobz/ActiveDirectoryProjectPart4)
     - [Part 5](https://github.com/Yagoobz/ActiveDirectoryProjectPart5)
-  - SOAR EDR Project (Coming Soon)
+  - SOAR EDR (Coming Soon)
 - <b>Wireshark</b>
   - Network Security Analysis
     - [Generate and Capture Traffic](https://github.com/Yagoobz/GenerateAndCaptureTraffic)
@@ -22,7 +22,7 @@
     - [Initiate, Capture, Analyze Telnet Sessions](https://github.com/Yagoobz/InitiateCaptureAnalyzeTelnetSessions)
     - [Capture, Analyze SSH Sessions](https://github.com/Yagoobz/CaptureAnalyzeSSHSessions)
     - [Generate, Capture, Analyze, Decrypt HTTPS Traffic](https://github.com/Yagoobz/GenerateCaptureAnalyzeDecrypHTTPSTraffic)
-  - Wireshark Packet Capture (Coming Soon)
+  - Packet Capture (Coming Soon)
 - <b>Microsoft Windows Security</b>
   - [Windows Defender Firewall](https://github.com/Yagoobz/WindowsDefenderFirewall)
 - <b>Computer Builds</b>
