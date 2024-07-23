@@ -1,5 +1,3 @@
-<h1>👋🏻Hello, I'm Sean Yaghoubi!</h1>
-  
 <h2>👨🏻‍💻Projects</h2>
 
 - <b>Home Labs</b>
