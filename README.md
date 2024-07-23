@@ -13,7 +13,8 @@
     - [Part 3](https://github.com/Yagoobz/ActiveDirectoryProjectPart3)
     - [Part 4](https://github.com/Yagoobz/ActiveDirectoryProjectPart4)
     - [Part 5](https://github.com/Yagoobz/ActiveDirectoryProjectPart5)
-  - SOAR EDR Project (Coming Soon) 
+  - SOAR EDR Project (Coming Soon)
+- <b>Wireshark Packet Capture (Coming Soon)</b>
 - <b>Wireshark Network Security Analysis</b>
   - [Generate and Capture Traffic](https://github.com/Yagoobz/GenerateAndCaptureTraffic)
   - [Analyzing HTTP Authentication](https://github.com/Yagoobz/AnalyzingHTTPAuthentication)
