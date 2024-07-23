@@ -16,12 +16,12 @@
   - SOAR EDR Project (Coming Soon)
 - <b>Wireshark</b>
   - Wireshark Network Security Analysis
-  - [Generate and Capture Traffic](https://github.com/Yagoobz/GenerateAndCaptureTraffic)
-  - [Analyzing HTTP Authentication](https://github.com/Yagoobz/AnalyzingHTTPAuthentication)
-  - [HTTP Form-Based Authentication and DNS](https://github.com/Yagoobz/HTTPForm-BasedAuthenticationAndDNS)
-  - [Initiate, Capture, Analyze Telnet Sessions](https://github.com/Yagoobz/InitiateCaptureAnalyzeTelnetSessions)
-  - [Capture, Analyze SSH Sessions](https://github.com/Yagoobz/CaptureAnalyzeSSHSessions)
-  - [Generate, Capture, Analyze, Decrypt HTTPS Traffic](https://github.com/Yagoobz/GenerateCaptureAnalyzeDecrypHTTPSTraffic)
+    - [Generate and Capture Traffic](https://github.com/Yagoobz/GenerateAndCaptureTraffic)
+    - [Analyzing HTTP Authentication](https://github.com/Yagoobz/AnalyzingHTTPAuthentication)
+    - [HTTP Form-Based Authentication and DNS](https://github.com/Yagoobz/HTTPForm-BasedAuthenticationAndDNS)
+    - [Initiate, Capture, Analyze Telnet Sessions](https://github.com/Yagoobz/InitiateCaptureAnalyzeTelnetSessions)
+    - [Capture, Analyze SSH Sessions](https://github.com/Yagoobz/CaptureAnalyzeSSHSessions)
+    - [Generate, Capture, Analyze, Decrypt HTTPS Traffic](https://github.com/Yagoobz/GenerateCaptureAnalyzeDecrypHTTPSTraffic)
   - Active Directory Project
     - [Part 1](https://github.com/Yagoobz/ActiveDirectoryProjectPart1)
     - [Part 2](https://github.com/Yagoobz/ActiveDirectoryProjectPart2)
