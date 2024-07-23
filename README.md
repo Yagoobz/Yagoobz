@@ -27,7 +27,12 @@
   - Honeypot (Coming Soon)
   - Pi-Hole (Coming Soon)
   - Pi-VPN (Coming Soon)
-  - Docker Home Lab (Coming Soon) 
+  - Docker Home Lab (Coming Soon)
+- <b>Python </b>
+  - Network Scanner (Coming Soon)
+  - Network Packet Sniffer (Coming Soon)
+  - Phishing Detection System (Coming Soon)
+  - Malware Analysis Tool (Coming Soon) 
 - <b>Microsoft Windows Security</b>
   - [Windows Defender Firewall](https://github.com/Yagoobz/WindowsDefenderFirewall)
 - <b>Computer Builds</b>
