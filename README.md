@@ -1,4 +1,4 @@
-<h2>👨🏻‍💻Projects</h2>
+<h2>Projects</h2>
 
 - <b>Home Labs</b>
   - SOC Automation Project
@@ -26,7 +26,7 @@
 - <b>Computer Builds</b>
   - [Custom PCs](https://github.com/Yagoobz/CustomPCBuilds)
 
- <h2>📄Certifications</h2>
+ <h2>Certifications</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/eedde7c6-91bb-4dd4-85eb-ce0e37510292/linked_in_profile)
 - [Google Cybersecurity Professional](https://www.credly.com/badges/01d71e21-671e-45c5-8a4a-b3267e4dab57/linked_in_profile)
@@ -35,8 +35,3 @@
   - [SOC Level 2](...)
   - [DevSecOps](...)
 
-<h2>🤳🏻Connect with me</h2>
-
-[<img align="left" alt="SeanYaghoubi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/sean-yaghoubi-87b5a5227/
